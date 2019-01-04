@@ -1,4 +1,4 @@
-#ASI-Gerador-de-Senha
+# ASI-Gerador-de-Senha
 Projeto para gerar senha com testes unitários JUnit.
 
 As senhas são geradas de acordo com as seguintes categorias: Preferencial, Pendencia, Agendamento, Retirada.
